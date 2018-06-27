@@ -29,5 +29,5 @@ Nous aspirons à parler de ce sujet d’une manière pragmatique, documentée, h
 
 ## Licence
 
-Tout le travail trouvable dans ce dépot est sous licence Creative Commons BY
+Tout le travail trouvable dans ce dépot est sous [licence](Licence) CC-BY <a rel="license" href="http://creativecommons.org/licenses/by/2.0/fr/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/2.0/fr/88x31.png" /></a>
 
