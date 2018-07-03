@@ -2,16 +2,16 @@
 
 ## Pourquoi 
 
-Avec ce projet, nous espérons rendre plus accessible la compréhension des questions d’argent en entreprise. Nous pensons que c’est l’une des clefs pour :
-- comprendre les grands enjeux d’argent de l’organisation où l’on travaille
+Avec ce projet, nous répondons déjà à notre propre curiosité, en étudiant des modèles d'entreprises que nous connaissons mal. Nous espérons aussi rendre plus accessible la compréhension des questions d’argent en entreprise. Nous pensons que c’est l’une des clefs pour :
+- comprendre les grands enjeux d’argent de l’organisation où l’on travaille.
 - comprendre les fonctionnement & enjeux des entreprises d’aujourd’hui.
-- créer une entreprise viable,
+- créer sa propre entreprise ou activité.
 
 ## Quoi
 
-Pour commencer, nous explorons comment fonctionnent différents types d’entreprises (de la boulangerie à Amazon par exemple) avec comme point central l’argent. Comment il rentre, comment il sort. Comment il influence ou affecte certaines des plus importantes décisions de l’entreprise. Avoir une vue d’ensemble sans rentrer dans trop de détails.
+Pour commencer, nous explorons comment fonctionnent différents types d’entreprises (de la boulangerie à Facebook par exemple) avec comme point central l’argent. Comment il rentre, comment il sort. Comment il influence ou affecte certaines des plus importantes décisions de l’entreprise. Avoir une vue d’ensemble sans rentrer dans trop de détails.
 
-Nous aspirons à parler de ce sujet d’une manière pragmatique, documentée, honnête non-experte, et sans jugement ni prétention d'exhaustivité ou de méthode.
+Nous aspirons à parler de ce sujet d’une manière pragmatique, documentée, honnête, non-experte, et sans jugement ni prétention d'exhaustivité ou de méthode.
 
 ## Pour qui
 
